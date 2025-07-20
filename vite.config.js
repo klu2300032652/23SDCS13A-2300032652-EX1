@@ -4,5 +4,6 @@ import react from '@vitejs/plugin-react-swc';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/S109/'
+  base: '/23SDCS13A-2300032652-EX1/'
 });
+
